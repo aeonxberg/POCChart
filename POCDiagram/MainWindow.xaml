@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:POCDiagram"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="600">
+        Title="Amazing charts of awesomenes" Height="500" Width="800">
     <Grid>
        <!-- <local:PieChartExample Margin="0,0,0.4,-0.2" /> -->
         <local:CartesianChartExample Margin="0,0,0.4,-0.2"/>
