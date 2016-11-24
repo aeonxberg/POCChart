@@ -66,6 +66,9 @@
     <Compile Include="CartesianChartExample.xaml.cs">
       <DependentUpon>CartesianChartExample.xaml</DependentUpon>
     </Compile>
+    <Compile Include="HeatMapExample.xaml.cs">
+      <DependentUpon>HeatMapExample.xaml</DependentUpon>
+    </Compile>
     <Compile Include="PieChartExample.xaml.cs">
       <DependentUpon>PieChartExample.xaml</DependentUpon>
     </Compile>
@@ -73,6 +76,10 @@
     <Page Include="CartesianChartExample.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HeatMapExample.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

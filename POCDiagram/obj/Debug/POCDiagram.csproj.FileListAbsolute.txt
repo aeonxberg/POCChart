@@ -19,3 +19,5 @@ C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\D
 C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\Debug\POCDiagram.pdb
 C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\Debug\CartesianChartExample.g.cs
 C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\Debug\CartesianChartExample.baml
+C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\Debug\HeatMapExample.g.cs
+C:\Users\XBerg\Documents\Visual Studio 2015\Projects\POCDiagram\POCDiagram\obj\Debug\HeatMapExample.baml

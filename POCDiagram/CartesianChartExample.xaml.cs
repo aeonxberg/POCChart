@@ -33,7 +33,7 @@ namespace POCDiagram
                 new ColumnSeries()
                 {
                     Title = "Ingepland",
-                    Values = new ChartValues<int> {20, 22, 22, 25, 25, 20, 14},
+                    Values = new ChartValues<int> {20, 22, 22, 25, 25, 20},
                     Visibility = Planned,
                     MaxWidth = 1000,
                     ColumnPadding = 0

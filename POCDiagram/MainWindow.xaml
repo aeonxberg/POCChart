@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="Amazing charts of awesomenes" Height="500" Width="800">
     <Grid>
-       <!-- <local:PieChartExample Margin="0,0,0.4,-0.2" /> -->
-        <local:CartesianChartExample Margin="0,0,0.4,-0.2"/>
+<!--        <local:PieChartExample Margin="0,0,0.4,-0.2" />-->
+        <local:HeatMapExample Margin="0,0,0.4,-0.2" />
+<!--         <local:CartesianChartExample Margin="0,0,0.4,-0.2"/> -->
     </Grid>
 </Window>
